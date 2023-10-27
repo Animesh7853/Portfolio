@@ -13,28 +13,27 @@ function AboutCard() {
             <br /> I am a second year student pursuing an Bachelor of Technology (B.Tech)
             in Computer science and engineering at SRMIST.
             <br />
-            Additionally, I am currently employed as a software developer at
-            Juspay.
+            
+            
             <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+            Certification and Badges I have earned 
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> AWS Cloud Architecture
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> AWS Cloud Foundation
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Hackerrank Gold Badges In C / C++ / Python / Java
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Don't underestimate yourself"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Animesh</footer>
         </blockquote>
       </Card.Body>
     </Card>
