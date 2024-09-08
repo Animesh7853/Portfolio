@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Animesh Jha </span>
             from <span className="purple"> Ranchi, India.</span>
-            <br /> I am a second year student pursuing an Bachelor of Technology (B.Tech)
+            <br /> I am a third year student pursuing an Bachelor of Technology (B.Tech)
             in Computer science and engineering at SRMIST.
             <br />
             
